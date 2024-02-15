@@ -1,4 +1,4 @@
-TIC-TAC-TOE
+## TIC-TAC-TOE
 This is a simple Tic Tac Toe game implemented in Python.
 
 ## How to Play
